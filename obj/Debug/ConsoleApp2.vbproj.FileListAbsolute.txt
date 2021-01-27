@@ -1,0 +1,12 @@
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\bin\Debug\ConsoleApp2.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.Form1.resources
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.Resources.resources
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\Lesson7-2021-01-27-opravna_zkouska2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
